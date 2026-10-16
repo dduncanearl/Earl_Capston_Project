@@ -1,0 +1,189 @@
+﻿id,question_type,status,source_recall,seconds,route,model_attempts,support_status,evidence_validated,answer_cost_usd,answer_cost_status,query,answer,sources,error
+wiki_001,single_article,pass,1.0,10.067,verified-direct,3,supported,True,0.01057012,provider_reported,In what years was the 100-metre race first contested at the Summer Olympics for men and for women?,"The men's 100-metre race was first contested at the Summer Olympics in 1896 [S2]
+
+The women's 100-metre race was first contested at the Summer Olympics in 1928 [S2]",100_metres.html; 1912_Summer_Olympics.html; 2000_Summer_Olympics.html; Athletics_at_the_2020_Summer_Olympics.html; Swimming_at_the_1948_Summer_Olympics_–_Men_s_100_metre_freestyle.html,
+wiki_003,single_article,pass,1.0,9.278,verified-direct,3,supported,True,0.0069998,provider_reported,"What injury ended Ben Darwin’s rugby playing career, and in which match did it occur?","Ben Darwin’s rugby playing career ended because of a neck injury. [S1]
+
+The injury occurred during the Wallabies' World Cup semi-final win against the All Blacks. [S1]",Andy_Mullins_(rugby_union).html; Ben_Darwin.html; Chris_Benoit.html; Fred_McLeod_(rugby_union).html; Mark_O_Halloran_(rugby_league).html; Oldest_football_clubs.html; Professional_wrestling.html,
+wiki_004,single_article,pass,1.0,12.459,multistep,3,supported,True,0.01220986,provider_reported,Which six years did Michael Jordan win NBA championships with the Chicago Bulls?,"Michael Jordan won NBA championships with the Chicago Bulls in 1991, 1992, 1993, 1996, 1997, and 1998. [S5] [S2] [S3]",Chicago.html; Chicago_Bulls.html; DeMar_DeRozan.html; Michael_B._Jordan.html; Michael_Jordan.html,
+wiki_006,single_article,pass,1.0,9.216,verified-direct,3,supported,True,0.01451956,provider_reported,"What stadium became Newcastle United’s home when the club took its present form in 1892, and how did it acquire it?","St James' Park became Newcastle United's home when the club took its present form in 1892 [S1]
+
+Newcastle United acquired St James' Park by absorbing the assets of Newcastle West End, including their home stadium [S1] [S3]",1982–83_Wolverhampton_Wanderers_F.C._season.html; 2018–19_Brisbane_Roar_FC_season.html; Leicester_City_F.C..html; Manchester_United_F.C..html; Newcastle_United_F.C..html; Southampton_F.C..html; Tranmere_Rovers_F.C..html,
+wiki_007,single_article,pass,1.0,8.991,verified-direct,3,supported,True,0.01530242,provider_reported,"Where is Borderlands 2 set, and whom must the Vault Hunters join forces with to defeat Handsome Jack?","Borderlands 2 is set on the planet of Pandora [S1]
+
+The Vault Hunters must join the Crimson Raiders, an anti-Hyperion resistance movement, to defeat Handsome Jack [S4]",Battle_of_Hastings.html; Borderlands_2.html; Edward_II_of_England.html; Gearbox_Software.html; Genghis_Khan.html; Wildlife_of_China.html,
+wiki_008,single_article,pass,1.0,9.42,verified-direct,3,supported,True,0.01416323,provider_reported,"Why was The Game Awards 2020 held virtually, and which game won Game of the Year?","The show was broadcast virtually due to the COVID-19 pandemic [S1] [S2]
+
+The Last of Us Part II won Game of the Year at The Game Awards 2020 [S1] [S12]",Irish_Book_Awards.html; List_of_Game_of_the_Year_awards.html; The_Game_Awards_2020.html,
+wiki_009,single_article,pass,1.0,11.562,verified-direct,3,supported,True,0.0153749,provider_reported,"What was Stevie Nicks’s debut solo studio album, when was it released, and how did it perform on the Billboard 200?","Stevie Nicks’s debut solo studio album was Bella Donna [S4] [S2]
+
+Bella Donna was released on July 27, 1981 [S4]
+
+Bella Donna reached number one on the Billboard 200 chart [S4]",Edge_of_Seventeen.html; Fleetwood_Mac.html; Stevie_Nicks.html,
+wiki_010,single_article,pass,1.0,11.036,verified-direct,3,supported,True,0.01487157,provider_reported,"Which two Taylor Swift albums released in 2020 did Aaron Dessner collaborate on, and which won the Grammy for Album of the Year?","Aaron Dessner collaborated on Taylor Swift's 2020 albums Folklore and Evermore [S3] [S1]
+
+Folklore won the Grammy Award for Album of the Year [S1] [S10] [S3]",Aaron_Dessner.html; List_of_awards_and_nominations_received_by_Taylor_Swift.html; Taylor_Swift.html,
+wiki_011,single_article,pass,1.0,9.687,verified-direct,3,supported,True,0.01255819,provider_reported,"Under what pen name does J. K. Rowling write the Cormoran Strike series, and what genre is that series?","J. K. Rowling writes the Cormoran Strike series under the pen name Robert Galbraith [S1] [S2]
+
+The Cormoran Strike series is a crime fiction series [S1] [S2]",Harry_Potter.html; Harry_Potter_and_the_Goblet_of_Fire.html; Harry_Potter_and_the_Philosopher_s_Stone.html; Iron_Flame.html; J._K._Rowling.html; Jane_Eyre.html; The_O.C..html,
+wiki_012,single_article,pass,1.0,10.382,verified-direct,3,supported,True,0.01535206,provider_reported,Which Richard Powers novels won the 2006 National Book Award for Fiction and the 2019 Pulitzer Prize for Fiction?,"The Echo Maker won the 2006 National Book Award for Fiction. [S2] [S8]
+
+The Overstory won the 2019 Pulitzer Prize for Fiction. [S2] [S5] [S3] [S8]",Alfred_A._Knopf.html; Louise_Erdrich.html; Pulitzer_Prize_for_Fiction.html; Richard_Powers.html,
+wiki_013,single_article,pass,1.0,9.911,verified-direct,3,supported,True,0.01266491,provider_reported,"Which Seinfeld character did Michael Richards play, and how many Primetime Emmys for supporting actor in a comedy did he receive for that role?","Michael Richards played Cosmo Kramer on Seinfeld [S1]
+
+Michael Richards received three Primetime Emmy Awards for Outstanding Supporting Actor in a Comedy Series for his role as Kramer [S1] [S6]",Friends.html; Michael_Richards.html; Seinfeld.html; The_Office_(American_TV_series).html,
+wiki_014,single_article,pass,1.0,9.938,verified-direct,3,supported,True,0.0068771,provider_reported,"What business does the gang run in It’s Always Sunny in Philadelphia, and in which neighborhood is it located?","The gang runs a dirty, unsuccessful Irish dive bar called Paddy's Pub [S1]
+
+The business is located in South Philadelphia [S1]",It_s_Always_Sunny_in_Philadelphia.html; Philadelphia.html,
+wiki_015,single_article,pass,1.0,11.116,verified-direct,3,supported,True,0.01181672,provider_reported,"Which magazine article inspired A Beautiful Day in the Neighborhood, who wrote it, and who plays Fred Rogers in the film?","A Beautiful Day in the Neighborhood was inspired by the 1998 Esquire article ""Can You Say ... Hero?"" [S1]
+
+The article was written by Tom Junod [S1]
+
+Tom Hanks plays Fred Rogers in the film [S1] [S3]",A_Beautiful_Day_in_the_Neighborhood.html; Fred_Rogers.html,
+wiki_017,single_article,pass,1.0,9.202,verified-direct,3,supported,True,0.00897337,provider_reported,"What short story was The Absent-Minded Professor based on, and what was the title of its 1963 sequel?","The Absent-Minded Professor was based on the short story ""A Situation of Gravity"" by Samuel W. Taylor [S1]
+
+Its 1963 sequel was titled Son of Flubber [S1] [S4]",Son_of_Flubber.html; The_Absent-Minded_Professor.html,
+wiki_019,single_article,pass,1.0,10.527,verified-direct,3,supported,True,0.00758242,provider_reported,What distinction did Emma Thompson achieve by winning Best Adapted Screenplay at the 68th Academy Awards?,"Emma Thompson became the first person to win Oscars for both acting and screenwriting. [S1]
+
+Emma Thompson was also the only person to win for acting and writing. [S5]",68th_Academy_Awards.html; Golden_Globe_Award_for_Best_Screenplay.html; List_of_Academy_Award_records.html,
+wiki_021,single_article,pass,1.0,11.309,verified-direct,3,supported,True,0.01393348,provider_reported,"Which film won the most awards at the 95th Academy Awards, how many did it win, and was Best Picture among them?","Everything Everywhere All at Once won the most awards at the 95th Academy Awards [S2]
+
+It won 7 awards at the 95th Academy Awards [S2]
+
+Best Picture was among the awards it won [S2]",68th_Academy_Awards.html; 70th_Academy_Awards.html; 74th_Academy_Awards.html; 89th_Academy_Awards.html; 95th_Academy_Awards.html; Academy_Award_for_Best_Picture.html; List_of_Academy_Award_records.html,
+wiki_022,single_article,pass,1.0,7.706,verified-direct,3,supported,True,0.00526878,provider_reported,"What was the theme of the 28th Tony Awards, and what did that theme involve?","The theme of the 28th Tony Awards was ""Homecoming"". [S1]
+
+The theme involved stars from TV and film returning to Broadway to help present the awards or perform. [S1]",28th_Tony_Awards.html; 52nd_Tony_Awards.html; 85th_Academy_Awards.html,
+wiki_023,single_article,pass,1.0,7.758,verified-direct,3,supported,True,0.01312637,provider_reported,"Where is the pineapple indigenous, and how do its flowers produce the fruit?","The pineapple is indigenous to South America. [S2]
+
+When the pineapple flowers, the individual fruits of the flowers join together to create a multiple fruit. [S1]",How_I_Met_Your_Mother.html; List_of_cocktails.html; Macaque.html; Morus_(plant).html; Pineapple.html,
+wiki_024,single_article,pass,1.0,10.685,verified-direct,3,supported,True,0.01072012,provider_reported,"What plant gives the canvasback its scientific species name, and what parts of that plant does the duck prefer to eat outside the breeding season?","The canvasback’s species name comes from wild celery, Vallisneria americana. [S3]
+
+Outside the breeding season, the canvasback prefers the winter buds and rhizomes of that plant. [S3]",Canvasback.html; Cuscuta.html; Diving_duck.html; Manatee.html; Prairie_Pothole_Region.html; Systema_Naturae.html,
+wiki_025,single_article,fail,1.0,10.97,multistep,3,insufficient,True,0.01504012,provider_reported,"Which three sites in Qufu make up the San Kong, and when were they collectively listed as a UNESCO World Heritage Site?",I couldn’t establish a complete answer from the retrieved passages.,Appenzell_District.html; China.html; Confucius.html; Gifu_Prefecture.html; King_Kong_(franchise).html; Klondike_Gold_Rush.html; List_of_archaeoastronomical_sites_by_country.html; Qufu.html; Shizuoka_Prefecture.html; Telangana.html; Wildlife_of_China.html; World_Heritage_Committee.html; Xiangqi.html,
+wiki_026,single_article,fail,1.0,10.539,multistep,3,insufficient,True,0.00847049,provider_reported,"Which two rivers meet at Pittsburgh, and what river do they form?",I couldn’t establish a complete answer from the retrieved passages.,"Baltimore_Ravens.html; England.html; Gifu_Prefecture.html; Miami_Dolphins.html; Michigan.html; Philadelphia_Eagles.html; Pittsburgh.html; Punjab_Province_(British_India).html; River_Avon,_Bristol.html; Sidney_Crosby.html; Super_Bowl_XLIII.html; Wyoming.html",
+wiki_027,single_article,pass,1.0,10.118,verified-direct,3,supported,True,0.01274518,provider_reported,"Why was Quincy Hospital originally established in 1890, and what happened to emergency care at its site after the hospital closed in 2014?","Quincy Hospital was established in 1890 to treat local granite workers suffering from dust inhalation. [S2]
+
+After Quincy Hospital closed in 2014, its emergency department stayed open on the same site as a stand-alone satellite emergency department until 2020. [S1] [S4]","Alaska.html; Amiens.html; Belfast.html; Birmingham.html; Harriet_Lane.html; List_of_mayors_of_Quincy,_Massachusetts.html; Metropolitan_Borough_of_Dudley.html; Prince_Edward_Island.html; Quincy_Medical_Center.html",
+wiki_028,single_article,pass,1.0,6.44,verified-direct,3,supported,True,0.0058339,provider_reported,Why was the Tennessee Centennial and International Exposition in 1897 described as a year late?,It was described as a year late because it celebrated the 100th anniversary of Tennessee's entry into the union in 1796. [S1],Tennessee_Centennial_and_International_Exposition.html; World_s_Columbian_Exposition.html,
+wiki_030,single_article,pass,1.0,10.908,verified-direct,3,supported,True,0.00899295,provider_reported,"What was the first bank established in the Kingdom of Hawaii, who founded it, and in what year?","The first bank established in the Kingdom of Hawaii was Bishop & Co. [S1] [S2]
+
+Bishop & Co. was founded by Charles Reed Bishop and William A. Aldrich. [S1] [S2]
+
+Bishop & Co. was founded in 1858. [S1] [S2]",Charles_Reed_Bishop.html; First_Hawaiian_Bank.html; List_of_capitals_in_the_United_States.html; U.S._national_banks_of_Hawaii.html,
+wiki_031,single_article,pass,1.0,12.156,verified-direct,3,supported,True,0.0102768,provider_reported,"Who signed the Anglo-Dutch Treaty of 1814 on behalf of the British and Dutch governments, and where and when was it signed?","Lord Castlereagh signed the Anglo-Dutch Treaty of 1814 on behalf of the British government, and Hendrik Fagel signed it on behalf of the Dutch government. [S1]
+
+The Anglo-Dutch Treaty of 1814 was signed in London. [S1]
+
+The Anglo-Dutch Treaty of 1814 was signed on 13 August 1814. [S1]",Anglo-Dutch_Treaty_of_1814.html; Anglo-Zanzibar_War.html; Louis_XIV.html; Louis_XV.html; Maastricht_Treaty.html; Netherlands.html,
+wiki_032,single_article,pass,1.0,9.064,verified-direct,3,supported,True,0.01637273,provider_reported,"What dates define the 13-day Cuban Missile Crisis, and why did Kennedy call the naval blockade a “quarantine”?","The 13-day Cuban Missile Crisis lasted from 16 to 28 October 1962. [S6]
+
+Kennedy called the naval blockade a quarantine to avoid the formal implications of a state of war. [S8] [S3]",Assassination_of_John_F._Kennedy.html; Cuban_Missile_Crisis.html; Harry_S._Truman.html; John_F._Kennedy.html,
+wiki_033,single_article,pass,1.0,9.607,verified-direct,3,supported,True,0.00884184,provider_reported,"Where and when did USS Maine sink, and which war did the sinking help precipitate?","USS Maine sank in Havana Harbor [S9] [S8]
+
+USS Maine sank on February 15, 1898 [S1] [S9]
+
+The sinking helped precipitate the Spanish–American War [S1]",Maine.html; USS_Maine_(1889).html; USS_Mizpah.html; William_McKinley.html,
+wiki_034,single_article,pass,1.0,9.49,verified-direct,3,supported,True,0.01002341,provider_reported,"What duties did USS Mizpah perform during World War II before becoming a school ship, and in what year did that change occur?",USS Mizpah served as a convoy escort along the eastern coast of the United States before becoming a navigation school ship in 1944 [S3],Gerald_Ford.html; Stephen_Etnier.html; USS_Mizpah.html; World_War_II.html,
+wiki_035,single_article,pass,1.0,11.605,verified-direct,3,supported,True,0.01432703,provider_reported,"On which mission did Neil Armstrong first fly in space, who flew with him, and what docking milestone did they achieve?","Neil Armstrong first flew in space on Gemini 8 [S1]
+
+David Scott flew with Neil Armstrong on Gemini 8 [S1]
+
+Armstrong and Scott achieved the first docking of two spacecraft [S1] [S5]",Apollo_11.html; Apollo_9.html; Apollo_program.html; Neil_Armstrong.html,
+wiki_036,single_article,pass,1.0,9.09,verified-direct,3,supported,True,0.01254767,provider_reported,"What was Pioneer 11’s historic first at Saturn, and on what date did its closest approach occur?","Pioneer 11 was the first probe to encounter Saturn [S1]
+
+Pioneer 11’s closest approach to Saturn occurred on September 1, 1979 [S1]",Apollo_13.html; Apollo_program.html; List_of_Apollo_missions.html; Moon_landing.html; Pioneer_11.html,
+wiki_037,single_article,pass,1.0,8.954,verified-direct,3,supported,True,0.0085118,provider_reported,"What was the title of Stephen Hawking’s doctoral thesis, and who was his doctoral adviser?","Stephen Hawking's doctoral thesis was titled ""Properties of Expanding Universes"" [S3] [S5]
+
+Stephen Hawking's doctoral adviser was Dennis William Sciama [S5] [S2]",Big_12_Conference.html; Golden_Retriever.html; Stephen_Hawking.html,
+wiki_039,single_article,pass,1.0,10.427,verified-direct,3,supported,True,0.01249298,provider_reported,"How many years did Nelson Mandela spend in prison, and what two historic distinctions marked his election as South Africa’s president?","Nelson Mandela spent 27 years in prison. [S8]
+
+He was South Africa’s first Black head of state. [S5]
+
+He was the first elected in a fully representative democratic election. [S5]",Margaret_Thatcher.html; Nelson_Mandela.html; Queen_(band).html; The_Duke_of_Edinburgh_s_Award.html,
+wiki_040,single_article,pass,1.0,10.01,verified-direct,3,supported,True,0.00647818,provider_reported,"Which two defensive players have won the AP NFL Most Valuable Player Award, and in which years?","Two defensive players have won the AP NFL Most Valuable Player Award: Alan Page and Lawrence Taylor. [S1]
+
+Alan Page won the AP NFL Most Valuable Player Award in 1971. [S1]
+
+Lawrence Taylor won the AP NFL Most Valuable Player Award in 1986. [S1]",Associated_Press.html; Associated_Press_NFL_Most_Valuable_Player_Award.html; National_Football_League.html,
+wiki_041,multi_article,pass,1.0,14.548,verified-direct,3,supported,True,0.01596155,provider_reported,"Compare Braveheart at the 68th Academy Awards with Titanic at the 70th: how many nominations and wins did each receive, and which won more awards?","Braveheart received 10 nominations and 5 wins at the 68th Academy Awards. [S2] [S6]
+
+Titanic received 14 nominations and 11 wins at the 70th Academy Awards. [S4] [S5] [S8]
+
+Titanic won more awards than Braveheart. [S6] [S5]",68th_Academy_Awards.html; 70th_Academy_Awards.html; 78th_Academy_Awards.html; Academy_Award_for_Best_Picture.html; List_of_Academy_Award_records.html; Titanic.html; Titanic_(1997_film).html,
+wiki_044,multi_article,pass,1.0,25.573,verified-multistep,5,supported,True,0.03932288,provider_reported,"Rank the Best Picture winners of the 68th, 70th, 74th, and 95th Academy Awards by their total wins at those ceremonies, from highest to lowest.","The Best Picture winner of the 68th Academy Awards was Braveheart, and it won 5 awards at that ceremony [S13]
+
+The Best Picture winner of the 70th Academy Awards was Titanic, and it won 11 awards at that ceremony [S3]
+
+The Best Picture winner of the 74th Academy Awards was A Beautiful Mind, and it won 4 awards at that ceremony [S4]
+
+The Best Picture winner of the 95th Academy Awards was Everything Everywhere All at Once, and it won 7 awards at that ceremony [S16]
+
+Ranked from highest to lowest by total wins at their respective ceremonies, the order is Titanic, Everything Everywhere All at Once, Braveheart, and A Beautiful Mind [S3] [S16] [S13] [S4]",68th_Academy_Awards.html; 70th_Academy_Awards.html; 74th_Academy_Awards.html; 95th_Academy_Awards.html; Academy_Award_for_Best_Director.html; List_of_Academy_Award_records.html,
+wiki_045,multi_article,pass,1.0,11.315,verified-direct,3,supported,True,0.00666422,provider_reported,How did the venues and main television networks differ between the 28th and 52nd Tony Awards?,"The 28th Tony Awards were held at the Shubert Theatre in New York City and broadcast by ABC. [S2]
+
+The 52nd Tony Awards were held at Radio City Music Hall in New York City and broadcast by CBS. [S1]",1st_Hollywood_Critics_Association_TV_Awards.html; 28th_Tony_Awards.html; 52nd_Tony_Awards.html,
+wiki_046,multi_article,pass,1.0,16.673,verified-direct,3,supported,True,0.008198,provider_reported,"Compare Mulona barnesi, Mulona lapidaria, and Mulona schausi: which occur in Cuba rather than Haiti, and who first described each species and when?","Mulona barnesi occurs on Cuba, not Haiti, and was first described by William Dewitt Field in 1952. [S2]
+
+Mulona lapidaria occurs on Haiti, not Cuba, and was described by Francis Walker in 1866. [S3]
+
+Mulona schausi occurs on Cuba, not Haiti, and was first described by William Dewitt Field in 1952. [S4]",Mulona.html; Mulona_barnesi.html; Mulona_lapidaria.html; Mulona_manni.html; Mulona_schausi.html,
+wiki_047,multi_article,pass,1.0,9.755,verified-direct,3,supported,True,0.01076925,provider_reported,"What processor connection exists between the original Apple II and the Ricoh 2A03 used in the NES, and what 6502 feature was disabled in the Ricoh chip?","The Ricoh 2A03 used in the NES is a derivative of the MOS Technology 6502, and the original Apple II also used the 6502. [S4] [S10] [S11]
+
+The Ricoh 2A03 had the 6502's binary-coded decimal mode disabled. [S4] [S8] [S10]",Apple_II_(original).html; MOS_Technology_6502.html; Nintendo_Entertainment_System.html; Ricoh_2A03.html,
+wiki_048,multi_article,pass,1.0,11.494,verified-direct,3,supported,True,0.01704169,provider_reported,"Who founded Apple and Uber, and how many calendar years separate their founding years?","Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976 [S9]
+
+Uber was founded by Garrett Camp and Travis Kalanick in March 2009 [S1]
+
+The founding years are 1976 for Apple and 2009 for Uber [S9] [S1]
+
+The founding years of Apple and Uber are separated by 33 calendar years [S9] [S1]",Apple_II_(original).html; Apple_Inc..html; List_of_Apple_products.html; Ryan_Graves_(businessman).html; Steve_Jobs.html; Uber.html,
+wiki_049,multi_article,pass,1.0,15.41,verified-direct,3,supported,True,0.01796214,provider_reported,"Which companies formed NCT and Tomorrow X Together, and what releases marked NCT U’s first debut and TXT’s debut?","NCT was formed and managed by SM Entertainment [S2]
+
+Tomorrow X Together was formed by Big Hit Entertainment [S1]
+
+NCT U’s first debut was with the double digital single The 7th Sense and Without You [S2]
+
+Tomorrow X Together’s debut was with the extended play The Dream Chapter: Star [S1]",Big_Hit_Music.html; Cappadonna.html; IKEA.html; Mark_Lee_(singer).html; NCT_(group).html; Thrash_metal.html; Tomorrow_X_Together.html,
+wiki_051,multi_article,pass,1.0,13.737,verified-direct,3,supported,True,0.01657745,provider_reported,"The 89.5 FM article lists ABC Classic in Goulburn and Triple J on the Sunshine Coast. Which Australian state is each in, and what is each state’s capital?","Goulburn is in New South Wales, whose capital is Sydney. [S1] [S9]
+
+The Sunshine Coast is in Queensland, whose capital is Brisbane. [S1] [S3]",89.5_FM.html; Aryna_Sabalenka.html; Australian_Capital_Territory.html; New_South_Wales.html; Northern_Territory.html; Oldest_football_clubs.html; Queensland.html; South_Australia.html; Western_Australia.html,
+wiki_052,multi_article,pass,1.0,8.735,verified-direct,3,supported,True,0.01524532,provider_reported,Which colleges awarded bachelor’s degrees to James Buchanan and James A. Garfield?,"James Buchanan received his bachelor's degree from Dickinson College [S8]
+
+James A. Garfield received his bachelor's degree from Williams College [S12] [S14]",James_A._Garfield.html; James_Buchanan.html; List_of_presidents_of_the_United_States_by_education.html,
+wiki_053,multi_article,pass,1.0,16.784,verified-direct,3,supported,True,0.01890235,provider_reported,"For Abraham Lincoln, James A. Garfield, and William McKinley, give the date each died and the vice president who succeeded him as president.","Abraham Lincoln died on April 15, 1865, and was succeeded as president by Andrew Johnson. [S16]
+
+James A. Garfield died on September 19, 1881, and was succeeded as president by Chester A. Arthur. [S9]
+
+William McKinley died on September 14, 1901, and was succeeded as president by Theodore Roosevelt. [S10] [S30]",Abraham_Lincoln.html; James_A._Garfield.html; Theodore_Roosevelt.html; William_McKinley.html,
+wiki_054,multi_article,fail,1.0,9.642,verified-direct,3,supported,True,0.01246681,provider_reported,"How did William McKinley open the Tennessee Centennial and International Exposition, and had he begun his presidency earlier that same year?","William McKinley officially opened the Tennessee Centennial and International Exposition from the White House by pressing a button that started the machinery building at the fair [S1]
+
+William McKinley had begun his presidency earlier that same year [S8] [S11]",George_W._Bush.html; List_of_presidents_of_the_United_States_who_died_in_office.html; Tennessee_Centennial_and_International_Exposition.html; William_McKinley.html,
+wiki_055,multi_article,pass,1.0,12.606,verified-direct,3,supported,True,0.0147223,provider_reported,Compare Neil Armstrong’s and Stephen Hawking’s university education: where did each earn his undergraduate degree and his postgraduate degree?,"Neil Armstrong earned his undergraduate degree at Purdue University and his postgraduate degree at the University of Southern California. [S7] [S5]
+
+Stephen Hawking earned his undergraduate degree at University College, Oxford and his postgraduate degree at Trinity Hall, Cambridge. [S6]",List_of_presidents_of_the_United_States_by_education.html; Marshall_McLuhan.html; Neil_Armstrong.html; Stephen_Hawking.html,
+wiki_056,multi_article,pass,1.0,10.267,verified-direct,3,supported,True,0.01374513,provider_reported,"Which band did Stevie Nicks join with Lindsey Buckingham in 1975, and which rock band and indie duo did Aaron Dessner co-found?","Stevie Nicks joined Fleetwood Mac with Lindsey Buckingham in 1975. [S2]
+
+Aaron Dessner co-founded the rock band the National. [S1]
+
+Aaron Dessner co-founded the indie rock duo Big Red Machine. [S1]",Aaron_Dessner.html; Stevie_Nicks.html; Taylor_Swift.html; The_Band.html,
+wiki_058,multi_article,pass,1.0,13.7,verified-direct,3,supported,True,0.01246879,provider_reported,"How did the events that put USS Maine and USS Mizpah underwater differ, and in what years did those events occur?","USS Maine went underwater when it sank by an explosion in 1898; USS Mizpah went underwater when it was scuttled in 1968. [S2] [S11]
+
+The events differed because Maine sank after an explosion, while Mizpah was deliberately scuttled as an artificial reef. [S2] [S11]",Maine.html; SS_Edmund_Fitzgerald.html; USS_Maine_(1889).html; USS_Mizpah.html; William_McKinley.html,
+wiki_059,multi_article,pass,1.0,12.496,verified-direct,3,supported,True,0.0157861,provider_reported,"What kind of organization presents the AP NFL MVP award, where is it headquartered, and who votes for the award and at what point in the season?","The AP NFL Most Valuable Player award is presented by the Associated Press, which is a news agency [S1]
+
+The Associated Press is headquartered in New York City [S12]
+
+The award is voted on by a panel of 50 sportswriters [S1]
+
+The voting takes place at the end of the regular season, before the playoffs [S1]",Associated_Press.html; Associated_Press_NFL_Most_Valuable_Player_Award.html; Miami_Dolphins.html; National_Football_League.html; Peyton_Manning.html; Ray_Lewis.html; Super_Bowl_Most_Valuable_Player_Award.html,
+wiki_060,multi_article,pass,1.0,17.132,verified-direct,3,supported,True,0.01400422,provider_reported,"Classify the pineapple, canvasback, Mulona barnesi, and Mulona lapidaria by biological family, and identify which two belong to the same family.","Pineapple belongs to the family Bromeliaceae. [S2]
+
+Canvasback belongs to the family Anatidae. [S1]
+
+Mulona barnesi belongs to the family Erebidae. [S6]
+
+Mulona lapidaria belongs to the family Erebidae. [S7]
+
+Mulona barnesi and Mulona lapidaria belong to the same family, Erebidae. [S6] [S7]",Canvasback.html; Diving_duck.html; How_I_Met_Your_Mother.html; List_of_cocktails.html; Mulona.html; Mulona_barnesi.html; Mulona_lapidaria.html; Mulona_manni.html; Pineapple.html,
+wiki_061,unanswerable,pass,,6.58,direct,2,insufficient,True,0.0033617,provider_reported,Who is Duncan Earl?,I couldn’t establish a complete answer from the retrieved passages.,"Earl_Lloyd.html; List_of_Scottish_monarchs.html; Prince_Edward,_Duke_of_Edinburgh.html; The_Dark_Knight.html",

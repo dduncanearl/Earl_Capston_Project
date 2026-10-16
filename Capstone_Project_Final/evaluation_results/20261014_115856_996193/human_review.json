@@ -1,0 +1,527 @@
+[
+  {
+    "id": "wiki_025",
+    "query": "Which three sites in Qufu make up the San Kong, and when were they collectively listed as a UNESCO World Heritage Site?",
+    "history": [],
+    "answer": "I couldn’t establish a complete answer from the retrieved passages.",
+    "claims": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "missing",
+        "claim_indexes": []
+      },
+      {
+        "id": "R2",
+        "status": "missing",
+        "claim_indexes": []
+      }
+    ],
+    "judgment": {
+      "pass": false,
+      "grounded": true,
+      "reason": "The question is answerable from the reference, but the candidate abstains instead of identifying the three sites and the 1994 UNESCO listing year."
+    },
+    "route": "multistep",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_026",
+    "query": "Which two rivers meet at Pittsburgh, and what river do they form?",
+    "history": [],
+    "answer": "I couldn’t establish a complete answer from the retrieved passages.",
+    "claims": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "missing",
+        "claim_indexes": []
+      },
+      {
+        "id": "R2",
+        "status": "missing",
+        "claim_indexes": []
+      }
+    ],
+    "judgment": {
+      "pass": false,
+      "grounded": true,
+      "reason": "The question is answerable from the reference, but the candidate abstains instead of identifying the two rivers and the river they form. The abstention is grounded because it does not invent a factual answer, but it does not satisfy the requested answer."
+    },
+    "route": "multistep",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_054",
+    "query": "How did William McKinley open the Tennessee Centennial and International Exposition, and had he begun his presidency earlier that same year?",
+    "history": [],
+    "answer": "William McKinley officially opened the Tennessee Centennial and International Exposition from the White House by pressing a button that started the machinery building at the fair [S1]\n\nWilliam McKinley had begun his presidency earlier that same year [S8] [S11]",
+    "claims": [
+      {
+        "text": "William McKinley officially opened the Tennessee Centennial and International Exposition from the White House by pressing a button that started the machinery building at the fair",
+        "evidence": [
+          {
+            "source": "S1",
+            "excerpt": "E20",
+            "quote": "President William McKinley officially opened the event from the White House , where he pressed a button that started the machinery building at the fair; he would visit in person a month later."
+          }
+        ]
+      },
+      {
+        "text": "William McKinley had begun his presidency earlier that same year",
+        "evidence": [
+          {
+            "source": "S8",
+            "excerpt": "E4",
+            "quote": "Soon after his second inauguration on March 4, 1901, William and Ida McKinley undertook a six-week tour of the nation."
+          },
+          {
+            "source": "S11",
+            "excerpt": "E7",
+            "quote": "McKinley had been elected for a second term in 1900 ."
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "resolved",
+        "claim_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "R2",
+        "status": "resolved",
+        "claim_indexes": [
+          1
+        ]
+      }
+    ],
+    "judgment": {
+      "pass": false,
+      "grounded": false,
+      "reason": "The first part is correct, but the second part is not grounded: the evidence only mentions McKinley’s 1901 second inauguration and election, not that he had begun his presidency earlier that same year in connection with the 1897 exposition. The answer also omits the explicit year/date context from the reference."
+    },
+    "route": "verified-direct",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_001",
+    "query": "In what years was the 100-metre race first contested at the Summer Olympics for men and for women?",
+    "history": [],
+    "answer": "The men's 100-metre race was first contested at the Summer Olympics in 1896 [S2]\n\nThe women's 100-metre race was first contested at the Summer Olympics in 1928 [S2]",
+    "claims": [
+      {
+        "text": "The men's 100-metre race was first contested at the Summer Olympics in 1896",
+        "evidence": [
+          {
+            "source": "S2",
+            "excerpt": "E19",
+            "quote": "It has been contested at the Summer Olympics since 1896 for men and since 1928 for women."
+          }
+        ]
+      },
+      {
+        "text": "The women's 100-metre race was first contested at the Summer Olympics in 1928",
+        "evidence": [
+          {
+            "source": "S2",
+            "excerpt": "E19",
+            "quote": "It has been contested at the Summer Olympics since 1896 for men and since 1928 for women."
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "resolved",
+        "claim_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "R2",
+        "status": "resolved",
+        "claim_indexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "judgment": {
+      "pass": true,
+      "grounded": true,
+      "reason": "The candidate correctly states the first Olympic years for men (1896) and women (1928), matching the provided evidence."
+    },
+    "route": "verified-direct",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_004",
+    "query": "Which six years did Michael Jordan win NBA championships with the Chicago Bulls?",
+    "history": [],
+    "answer": "Michael Jordan won NBA championships with the Chicago Bulls in 1991, 1992, 1993, 1996, 1997, and 1998. [S5] [S2] [S3]",
+    "claims": [
+      {
+        "text": "Michael Jordan won NBA championships with the Chicago Bulls in 1991, 1992, 1993, 1996, 1997, and 1998.",
+        "evidence": [
+          {
+            "source": "S5",
+            "excerpt": "E21",
+            "quote": "Jordan won his first NBA title with the Bulls in 1991 and followed that with titles in 1992 and 1993 , securing a three-peat ."
+          },
+          {
+            "source": "S5",
+            "excerpt": "E23",
+            "quote": "He returned to the Bulls in 1995 and led them to three more championships in 1996 , 1997 , and 1998 , as well as a then-record 72 regular season wins in the 1995–96 NBA season ."
+          },
+          {
+            "source": "S2",
+            "excerpt": "E18",
+            "quote": "Championships | 6 ( 1991 , 1992 , 1993 , 1996 , 1997 , 1998 )"
+          },
+          {
+            "source": "S3",
+            "excerpt": "E13",
+            "quote": "The Bulls won their third NBA championship on a game-winning shot by John Paxson and a last-second block by Horace Grant , but Jordan was once again Chicago's leader."
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "resolved",
+        "claim_indexes": [
+          0
+        ]
+      }
+    ],
+    "judgment": {
+      "pass": true,
+      "grounded": true,
+      "reason": "The candidate correctly lists all six championship years: 1991, 1992, 1993, 1996, 1997, and 1998. This matches the reference and is supported by the evidence."
+    },
+    "route": "multistep",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_041",
+    "query": "Compare Braveheart at the 68th Academy Awards with Titanic at the 70th: how many nominations and wins did each receive, and which won more awards?",
+    "history": [],
+    "answer": "Braveheart received 10 nominations and 5 wins at the 68th Academy Awards. [S2] [S6]\n\nTitanic received 14 nominations and 11 wins at the 70th Academy Awards. [S4] [S5] [S8]\n\nTitanic won more awards than Braveheart. [S6] [S5]",
+    "claims": [
+      {
+        "text": "Braveheart received 10 nominations and 5 wins at the 68th Academy Awards.",
+        "evidence": [
+          {
+            "source": "S2",
+            "excerpt": "E4",
+            "quote": "The following 19 films received multiple nominations: Nominations Film 10 Braveheart 9 Apollo 13 7 Babe Sense and Sensibility 5 Il Postino: The Postman 4 Dead Man Walking Leaving Las Vegas Nixon 3 Batman Forever Crimson Tide Toy Story 2 12 Monkeys A Little Princess Mighty Aphrodite Pocahontas Restoration Richard III Sabrina The Usual Suspects | The following five films received multiple awards: Awards Film 5 Braveheart 2 Apollo 13 Pocahontas Restoration The Usual Suspects"
+          },
+          {
+            "source": "S6",
+            "excerpt": "E26",
+            "quote": "Braveheart won five awards, including Best Picture ."
+          },
+          {
+            "source": "S6",
+            "excerpt": "E13",
+            "quote": "Most nominations | Braveheart (10)"
+          }
+        ]
+      },
+      {
+        "text": "Titanic received 14 nominations and 11 wins at the 70th Academy Awards.",
+        "evidence": [
+          {
+            "source": "S4",
+            "excerpt": "E4",
+            "quote": "The following 16 films received multiple nominations: Nominations Film 14 Titanic 9 Good Will Hunting L.A."
+          },
+          {
+            "source": "S5",
+            "excerpt": "E29",
+            "quote": "Titanic won 11 awards, including Best Picture , a number that is tied with Ben-Hur and The Lord of the Rings: The Return of the King ."
+          },
+          {
+            "source": "S8",
+            "excerpt": "E5",
+            "quote": "Titanic led all nominees with fourteen nominations; Good Will Hunting and L.A."
+          },
+          {
+            "source": "S8",
+            "excerpt": "E8",
+            "quote": "With eleven awards, Titanic tied with Ben-Hur (1959) for the most Academy Awards in Oscar history."
+          }
+        ]
+      },
+      {
+        "text": "Titanic won more awards than Braveheart.",
+        "evidence": [
+          {
+            "source": "S6",
+            "excerpt": "E26",
+            "quote": "Braveheart won five awards, including Best Picture ."
+          },
+          {
+            "source": "S5",
+            "excerpt": "E29",
+            "quote": "Titanic won 11 awards, including Best Picture , a number that is tied with Ben-Hur and The Lord of the Rings: The Return of the King ."
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "resolved",
+        "claim_indexes": [
+          0
+        ]
+      },
+      {
+        "id": "R2",
+        "status": "resolved",
+        "claim_indexes": [
+          0
+        ]
+      },
+      {
+        "id": "R3",
+        "status": "resolved",
+        "claim_indexes": [
+          1
+        ]
+      },
+      {
+        "id": "R4",
+        "status": "resolved",
+        "claim_indexes": [
+          1
+        ]
+      },
+      {
+        "id": "R5",
+        "status": "resolved",
+        "claim_indexes": [
+          2
+        ]
+      }
+    ],
+    "judgment": {
+      "pass": true,
+      "grounded": true,
+      "reason": "The candidate correctly states that Braveheart had 10 nominations and 5 wins, Titanic had 14 nominations and 11 wins, and Titanic won more awards."
+    },
+    "route": "verified-direct",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_044",
+    "query": "Rank the Best Picture winners of the 68th, 70th, 74th, and 95th Academy Awards by their total wins at those ceremonies, from highest to lowest.",
+    "history": [],
+    "answer": "The Best Picture winner of the 68th Academy Awards was Braveheart, and it won 5 awards at that ceremony [S13]\n\nThe Best Picture winner of the 70th Academy Awards was Titanic, and it won 11 awards at that ceremony [S3]\n\nThe Best Picture winner of the 74th Academy Awards was A Beautiful Mind, and it won 4 awards at that ceremony [S4]\n\nThe Best Picture winner of the 95th Academy Awards was Everything Everywhere All at Once, and it won 7 awards at that ceremony [S16]\n\nRanked from highest to lowest by total wins at their respective ceremonies, the order is Titanic, Everything Everywhere All at Once, Braveheart, and A Beautiful Mind [S3] [S16] [S13] [S4]",
+    "claims": [
+      {
+        "text": "The Best Picture winner of the 68th Academy Awards was Braveheart, and it won 5 awards at that ceremony",
+        "evidence": [
+          {
+            "source": "S13",
+            "excerpt": "E11",
+            "quote": "Best Picture | Braveheart"
+          },
+          {
+            "source": "S13",
+            "excerpt": "E12",
+            "quote": "Most awards | Braveheart (5)"
+          },
+          {
+            "source": "S13",
+            "excerpt": "E26",
+            "quote": "Braveheart won five awards, including Best Picture ."
+          }
+        ]
+      },
+      {
+        "text": "The Best Picture winner of the 70th Academy Awards was Titanic, and it won 11 awards at that ceremony",
+        "evidence": [
+          {
+            "source": "S3",
+            "excerpt": "E12",
+            "quote": "Best Picture | Titanic"
+          },
+          {
+            "source": "S3",
+            "excerpt": "E13",
+            "quote": "Most awards | Titanic (11)"
+          },
+          {
+            "source": "S3",
+            "excerpt": "E29",
+            "quote": "Titanic won 11 awards, including Best Picture , a number that is tied with Ben-Hur and The Lord of the Rings: The Return of the King ."
+          }
+        ]
+      },
+      {
+        "text": "The Best Picture winner of the 74th Academy Awards was A Beautiful Mind, and it won 4 awards at that ceremony",
+        "evidence": [
+          {
+            "source": "S4",
+            "excerpt": "E13",
+            "quote": "Best Picture | A Beautiful Mind"
+          },
+          {
+            "source": "S4",
+            "excerpt": "E14",
+            "quote": "Most awards | A Beautiful Mind and The Lord of the Rings: The Fellowship of the Ring (4)"
+          },
+          {
+            "source": "S4",
+            "excerpt": "E28",
+            "quote": "A Beautiful Mind won four awards, including Best Picture ."
+          }
+        ]
+      },
+      {
+        "text": "The Best Picture winner of the 95th Academy Awards was Everything Everywhere All at Once, and it won 7 awards at that ceremony",
+        "evidence": [
+          {
+            "source": "S16",
+            "excerpt": "E12",
+            "quote": "Best Picture | Everything Everywhere All at Once"
+          },
+          {
+            "source": "S16",
+            "excerpt": "E13",
+            "quote": "Most awards | Everything Everywhere All at Once (7)"
+          },
+          {
+            "source": "S16",
+            "excerpt": "E26",
+            "quote": "Everything Everywhere All at Once won seven awards, including Best Picture ."
+          }
+        ]
+      },
+      {
+        "text": "Ranked from highest to lowest by total wins at their respective ceremonies, the order is Titanic, Everything Everywhere All at Once, Braveheart, and A Beautiful Mind",
+        "evidence": [
+          {
+            "source": "S3",
+            "excerpt": "E13",
+            "quote": "Most awards | Titanic (11)"
+          },
+          {
+            "source": "S16",
+            "excerpt": "E13",
+            "quote": "Most awards | Everything Everywhere All at Once (7)"
+          },
+          {
+            "source": "S13",
+            "excerpt": "E12",
+            "quote": "Most awards | Braveheart (5)"
+          },
+          {
+            "source": "S4",
+            "excerpt": "E14",
+            "quote": "Most awards | A Beautiful Mind and The Lord of the Rings: The Fellowship of the Ring (4)"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "resolved",
+        "claim_indexes": [
+          0
+        ]
+      },
+      {
+        "id": "R2",
+        "status": "resolved",
+        "claim_indexes": [
+          1
+        ]
+      },
+      {
+        "id": "R3",
+        "status": "resolved",
+        "claim_indexes": [
+          2
+        ]
+      },
+      {
+        "id": "R4",
+        "status": "resolved",
+        "claim_indexes": [
+          3
+        ]
+      },
+      {
+        "id": "R5",
+        "status": "resolved",
+        "claim_indexes": [
+          4
+        ]
+      }
+    ],
+    "judgment": {
+      "pass": true,
+      "grounded": true,
+      "reason": "The candidate correctly identifies the four Best Picture winners and their win totals, and the ranking from highest to lowest is correct: Titanic (11), Everything Everywhere All at Once (7), Braveheart (5), A Beautiful Mind (4)."
+    },
+    "route": "verified-multistep",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  },
+  {
+    "id": "wiki_061",
+    "query": "Who is Duncan Earl?",
+    "history": [],
+    "answer": "I couldn’t establish a complete answer from the retrieved passages.",
+    "claims": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "status": "missing",
+        "claim_indexes": []
+      }
+    ],
+    "judgment": {
+      "pass": true,
+      "grounded": true,
+      "reason": "The candidate correctly abstains without inventing an identity, matching the expected behavior and the reference’s insufficient-evidence stance."
+    },
+    "route": "direct",
+    "error": null,
+    "human_correct": null,
+    "human_grounded": null,
+    "human_notes": ""
+  }
+]
