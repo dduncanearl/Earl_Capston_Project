@@ -1,0 +1,8 @@
+[2026-09-29T09:40:22] AGENTIC
+Q: How does an agentic retriever differ from a fixed pipeline, and how is it evaluated?
+A: An **agentic retriever** differs from a fixed pipeline because it **makes step-by-step decisions**: it “**decides at each step whether it has enough information or should search again**” [d4].  
+
+A **fixed pipeline** is not adaptive in that way; it is a “**fixed single-pass pipeline**” [d6].  
+
+It is evaluated by **comparing its answers and cost against that fixed single-pass pipeline**: “**Evaluating an agent compares its answers and cost against a fixed single-pass pipeline**” [d6].
+------------------------------------------------------------------------

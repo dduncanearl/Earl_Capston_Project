@@ -1,0 +1,24 @@
+[
+  {
+    "id": "wiki_059",
+    "query": "What kind of organization presents the AP NFL MVP award, where is it headquartered, and who votes for the award and at what point in the season?",
+    "ideal_answer": "The Associated Press is a not-for-profit news agency organized as a cooperative and headquartered in New York City. A panel of 50 sportswriters votes for its NFL MVP at the end of the regular season, before the playoffs.",
+    "top_articles": [
+      "Associated_Press.html",
+      "Associated_Press_NFL_Most_Valuable_Player_Award.html"
+    ],
+    "question_type": "multi_article"
+  },
+  {
+    "id": "wiki_060",
+    "query": "Classify the pineapple, canvasback, Mulona barnesi, and Mulona lapidaria by biological family, and identify which two belong to the same family.",
+    "ideal_answer": "The pineapple belongs to Bromeliaceae; the canvasback to Anatidae; and both Mulona barnesi and Mulona lapidaria to Erebidae. The two Mulona moths share the same family.",
+    "top_articles": [
+      "Pineapple.html",
+      "Canvasback.html",
+      "Mulona_barnesi.html",
+      "Mulona_lapidaria.html"
+    ],
+    "question_type": "multi_article"
+  }
+]
